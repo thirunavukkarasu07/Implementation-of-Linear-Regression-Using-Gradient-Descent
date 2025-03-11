@@ -63,15 +63,19 @@ Data information
 
 ![image](https://github.com/user-attachments/assets/31a774b7-2f5a-453a-be1d-312558c5545f)
 
+
 Value of X
 
 ![image](https://github.com/user-attachments/assets/dd5eca78-179c-4b8c-844a-d64086ff4355)
+
 
 Value of X1_Scaled
 
 ![image](https://github.com/user-attachments/assets/18d028e7-2e50-4111-9c07-ee6909e9e1fd)
 
+
 Predicted Value
+
 
 ![image](https://github.com/user-attachments/assets/f2d61ac1-17bc-4d59-b5e1-646f4fcc4905)
 
